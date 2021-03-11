@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Bach! I am currently a junior developer intern at [Vizer App](https://www.vizerapp.com/)! 
+My name is Bach! I am a full stack web developer! 
 
 - 🔭 I’m currently working on my portfolio and potentially a little side project called 'Into the Shadow (Art) Realm.'
 - 🌱 I’m currently learning React Native.
