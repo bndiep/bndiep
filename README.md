@@ -2,7 +2,7 @@
 
 My name is Bach! I am a full stack web developer! 
 
-- 🔭 I’m currently working on my portfolio and potentially a little side project called 'Into the Shadow (Art) Realm.'
+- 🔭 I’m currently working on my portfolio and a Pokédex app using React.js and Styled Components.
 - 🌱 I’m currently learning Tailwind CSS (it's great btw) and Vue.js.
 - 👯 I’m looking to collaborate on any good first issue open source projects here on GitHub!
 - 🤔 I’m looking for help with all new tech that I am unfamiliar with!
