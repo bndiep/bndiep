@@ -2,7 +2,7 @@
 
 My name is Bach! I am a full stack web developer! 
 
-- 🔭 I’m currently working on a Pokédex app using React.js and Styled Components and a Mintbean.io learn-a-thon social media site.
+- 🔭 I’m currently working on a [Pokédex](https://bndiep.github.io/pokedex/) app using React.js and Styled Components and a Mintbean.io learn-a-thon social media site.
 - 🌱 I’m currently learning Tailwind CSS, TypeScript, and MongoDB.
 - 👯 I’m looking to collaborate on any good first issue open source projects here on GitHub!
 - 🤔 I’m looking for help with all new tech that I am unfamiliar with!
