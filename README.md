@@ -1,11 +1,12 @@
-### Hi there 👋
+### Hello World! 👋
 
 My name is Bach! I am a full stack web developer! 
 
-- 🔭 I’m currently working on a [Pokédex](https://bndiep.github.io/pokedex/) app using React.js and Styled Components and a Mintbean.io learn-a-thon social media site.
+- ✅ I recently completed a [Pokédex](https://bndiep.github.io/pokedex/) app using React.js and Styled Components!
+- 🔭 I’m currently working on a COVID data vizualization app using React.js and a library called Nivo. I'm also pairing with a friend to build a social media app! From time to time, I follow the Daily UI prompts to practice my design skills!
 - 🌱 I’m currently learning Tailwind CSS, TypeScript, and MongoDB.
 - 👯 I’m looking to collaborate on any good first issue open source projects here on GitHub!
-- 🤔 I’m looking for help with all new tech that I am unfamiliar with!
+- 🤔 I’m looking for job that can help others and enrich my learning as a 🔰 developer!~
 - 💬 Ask me about what my name means in Vietnamese and how to pronounce it in all the ways.
 - 📫 How to reach me: bachdiep.dev@gmail.com || Twitter: @itsabach || LinkedIn: bachdiep
 - 😄 Pronouns: she/her/hers
