@@ -2,7 +2,7 @@
 
 My name is Bach! I am a software engineer at Codecademy! 
 
-- ✅ I recently completed a [Pokédex](https://bndiep.github.io/pokedex/) app using React.js and Styled Components! (Looking back, it needs a bit of a refactor and I was to include responsiveness as well!)
+- ✅ I recently completed a [Pokédex](https://bndiep.github.io/pokedex/) app using React.js and Styled Components! (Looking back, it needs a bit of a refactor and I would like to include responsiveness as well!)
 - 🔭 I’m currently working on a few projects. My backlog is growing. 😰 At this time, I'm collaboratively working on a Windows XP themed portfolio on [Replit](https://replit.com/@rmdpalo/Portfolio#src/components/MenuBar.js).
 - 🌱 I’m currently learning Tailwind CSS, TypeScript, and Python.
 - 👯 I’m looking to collaborate on any good first issue open source projects here on GitHub!
